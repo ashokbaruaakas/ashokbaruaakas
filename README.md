@@ -1,2 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Ashok&descAlign=55&descAlignY=48&desc=Software%20Engineer%20-%20PHP%20|%20LARAVEL%20|%20TS%20|%20VUE&descSize=24&section=header&reversal=true&textBg=false&fontAlign=40&animation=fadeIn&rotate=0&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Ashok&descAlign=55.5&descAlignY=48&desc=Software%20Engineer%20-%20PHP%20|%20LARAVEL%20|%20TS%20|%20VUE&descSize=28&section=header&reversal=true&textBg=false&fontAlign=35&animation=fadeIn&rotate=0&fontAlignY=30)
 
+
+
+
+<img src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI1NzU3OTEsIm5iZiI6MTcxMjU3NTQ5MSwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA4VDExMjQ1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc1MTgwZDQxNzU0Zjk3ZTNmZWViZDliYWViYTgxZmNjYjk4NjkzZjAyODdhNjRhMDZlNTliYmViNmUyYzFkZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-eRNmkqtZ2tCP2HPLOWd0ABezKm2a0riHZiOkVYcrnU" hight="150" align="right" alt="Working From Home" />
