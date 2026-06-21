@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Full-stack engineer crafting elegant solutions with PHP, Laravel, Vue & TypeScript.
+    Creative full-stack engineer crafting elegant solutions with PHP, Laravel, Vue & TypeScript.
     Builder at <a href="https://github.com/softpulze"><strong>@softpulze</strong></a> · AI-augmented by <a href="https://github.com/ashokathebot"><strong>@ashokathebot</strong></a>
     DevOps-minded, football & chess enthusiast. 🧙
   </em>
