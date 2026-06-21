@@ -1,0 +1,22 @@
+name: Update README with Recent Activity
+
+on:
+  schedule:
+    # Every 6 hours — keeps activity fresh without burning API quota
+    - cron: "0 */6 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT_MSG: "docs: update recent activity in README"
+          MAX_LINES: 10
