@@ -7,7 +7,7 @@
 <p align="center">
   <em>
     Full-stack engineer crafting elegant solutions with PHP, Laravel, Vue & TypeScript.
-    DevOps-minded, football & chess enthusiast. 🧙
+    Builder at <a href="https://github.com/softpulze"><strong>@softpulze</strong></a>. DevOps-minded, football & chess enthusiast. 🧙
   </em>
 </p>
 
@@ -16,7 +16,7 @@
 <!-- Stats Row -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashokbaruaakas&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashokbaruaakas&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true&hide=issues&rank_icon=github" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ashokbaruaakas&theme=city_lights&hide_border=true" alt="GitHub Streak" />
@@ -79,15 +79,6 @@
 # Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ashokbaruaakas/deck">
-    <img width="45%" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ashokbaruaakas&repo=deck&theme=city_lights&hide_border=true" />
-  </a>
-  <a href="https://github.com/ashokbaruaakas/growmoregaze">
-    <img width="45%" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ashokbaruaakas&repo=growmoregaze&theme=city_lights&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ashokbaruaakas/clawkit">
     <img width="45%" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ashokbaruaakas&repo=clawkit&theme=city_lights&hide_border=true" />
   </a>
@@ -98,8 +89,6 @@
 
 | Repository | What It Does |
 |---|---|
-| [**deck** 🃏](https://github.com/ashokbaruaakas/deck) | Project & task management — for humans and AI agents, together. Agents as first-class teammates. |
-| [**growmoregaze** 🌿](https://github.com/ashokbaruaakas/growmoregaze) | Laravel + Inertia platform for SEO ops, campaign management, invoicing, payments & HR/payroll. |
 | [**clawkit** 🐳](https://github.com/ashokbaruaakas/clawkit) | OpenClaw wrapper image with Linuxbrew + dev tooling, published to GHCR for Docker Compose. |
 | [**kord-cli** 🔧](https://github.com/ashokbaruaakas/kord-cli) | Go-based CLI tool — work in progress. |
 
@@ -126,7 +115,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="28" alt="Discord" />
   </a>&nbsp;&nbsp;
   <a href="https://ashokbaruaakas.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/globe/default.svg" width="32" height="28" alt="Portfolio" />
+    🌐&nbsp;
   </a>
 </p>
 
