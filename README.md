@@ -7,7 +7,8 @@
 <p align="center">
   <em>
     Full-stack engineer crafting elegant solutions with PHP, Laravel, Vue & TypeScript.
-    Builder at <a href="https://github.com/softpulze"><strong>@softpulze</strong></a>. DevOps-minded, football & chess enthusiast. 🧙
+    Builder at <a href="https://github.com/softpulze"><strong>@softpulze</strong></a> · AI-augmented by <a href="https://github.com/ashokathebot"><strong>@ashokathebot</strong></a>
+    DevOps-minded, football & chess enthusiast. 🧙
   </em>
 </p>
 
@@ -102,21 +103,11 @@
 ---
 
 <p align="center">
-  <a href="https://wa.me/+8801829853914" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="28" alt="WhatsApp" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/ashokbaruaakas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="28" alt="X / Twitter" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ashokbaruaakas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="28" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/611991650868133894" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="28" alt="Discord" />
-  </a>&nbsp;&nbsp;
-  <a href="https://ashokbaruaakas.github.io" target="_blank">
-    🌐&nbsp;
-  </a>
+  <a href="https://wa.me/+8801829853914" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/ashokbaruaakas" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ashokbaruaakas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/611991650868133894" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;&nbsp;
+  <a href="https://ashokbaruaakas.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-10b981?style=flat-square" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
