@@ -6,9 +6,7 @@
 
 <p align="center">
   <em>
-    Creative full-stack engineer crafting elegant solutions with PHP, Laravel, Vue & TypeScript.
-    Builder at <a href="https://github.com/softpulze"><strong>@softpulze</strong></a> · AI-augmented by <a href="https://github.com/ashokathebot"><strong>@ashokathebot</strong></a>
-    DevOps-minded, football & chess enthusiast. 🧙
+    Full-stack engineer · Laravel · Vue · TypeScript · Go · Builder at <a href="https://github.com/softpulze"><strong>@softpulze</strong></a> · AI-augmented by <a href="https://github.com/ashokathebot"><strong>@ashokathebot</strong></a> 🧙
   </em>
 </p>
 
@@ -39,6 +37,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
@@ -51,6 +50,8 @@
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -64,6 +65,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### 🚀 DevOps & CI/CD
@@ -73,6 +75,18 @@
   <img src="https://img.shields.io/badge/GitHub_Container_Registry-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Deployer-1B1B1B?style=for-the-badge&logo=deployer&logoColor=white" />
   <img src="https://img.shields.io/badge/Certbot-0A68B3?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</p>
+
+### 🤖 AI & Agent Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/OpenClaw-6366F1?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agent%20CLI-0F172A?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill%20Workshop-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-10b981?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20API%20Integration-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--Augmented%20Dev-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -104,6 +118,7 @@
 
 <p align="center">
   <a href="https://wa.me/+8801829853914" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>&nbsp;&nbsp;
+  <a href="https://t.me/ashokbaruaakas" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;&nbsp;
   <a href="https://twitter.com/ashokbaruaakas" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>&nbsp;&nbsp;
   <a href="https://discordapp.com/users/611991650868133894" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;&nbsp;
   <a href="https://ashokbaruaakas.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-10b981?style=flat-square" alt="Portfolio" /></a>
