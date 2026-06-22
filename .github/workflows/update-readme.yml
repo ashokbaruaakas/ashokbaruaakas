@@ -16,7 +16,93 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+
+      - name: Fetch recent activity and update README
+        uses: actions/github-script@v9
         with:
-          COMMIT_MSG: "docs: update recent activity in README"
-          MAX_LINES: 10
+          script: |
+            const USERNAME = context.repo.owner;
+            const MAX_LINES = 10;
+
+            // Fetch recent events
+            const events = await github.rest.activity.listPublicEventsForUser({
+              username: USERNAME,
+              per_page: 30,
+            });
+
+            const filtered = events.data.filter(e =>
+              ['IssueCommentEvent', 'IssuesEvent', 'PullRequestEvent', 'ReleaseEvent', 'PushEvent', 'CreateEvent'].includes(e.type)
+            ).slice(0, MAX_LINES);
+
+            // Format each event into a line
+            const lines = filtered.map(e => {
+              const repo = e.repo.name;
+              const type = e.type;
+              const payload = e.payload;
+              let action = '';
+              let ref = '';
+
+              switch (type) {
+                case 'IssuesEvent':
+                  action = payload.action === 'opened' ? 'Opened' : payload.action === 'closed' ? 'Closed' : payload.action;
+                  ref = `[${payload.issue.title}](${payload.issue.html_url})`;
+                  return `- 🗣️ ${action} issue ${ref} in [${repo}](${e.repo.url.replace('api.github.com/repos', 'github.com')})`;
+                case 'IssueCommentEvent':
+                  ref = `[${payload.issue.title}](${payload.issue.html_url})`;
+                  return `- 💬 Commented on issue ${ref} in [${repo}](${e.repo.url.replace('api.github.com/repos', 'github.com')})`;
+                case 'PullRequestEvent':
+                  action = payload.action === 'opened' ? 'Opened' : payload.action === 'closed' ? (payload.pull_request.merged ? 'Merged' : 'Closed') : payload.action;
+                  ref = `[${payload.pull_request.title}](${payload.pull_request.html_url})`;
+                  return `- 🔀 ${action} PR ${ref} in [${repo}](${e.repo.url.replace('api.github.com/repos', 'github.com')})`;
+                case 'ReleaseEvent':
+                  ref = `[${payload.release.tag_name}](${payload.release.html_url})`;
+                  return `- 🚀 Released ${ref} in [${repo}](${e.repo.url.replace('api.github.com/repos', 'github.com')})`;
+                case 'PushEvent':
+                  ref = payload.ref.replace('refs/heads/', '');
+                  const commits = payload.commits || [];
+                  const count = commits.length;
+                  return `- ⚡ Pushed ${count} commit${count > 1 ? 's' : ''} to \`${ref}\` in [${repo}](${e.repo.url.replace('api.github.com/repos', 'github.com')})`;
+                case 'CreateEvent':
+                  ref = payload.ref ? ` \`${payload.ref}\`` : '';
+                  return `- 🎉 Created ${payload.ref_type}${ref} in [${repo}](${e.repo.url.replace('api.github.com/repos', 'github.com')})`;
+                default:
+                  return '';
+              }
+            }).filter(Boolean).join('\n');
+
+            const content = lines || '_(No recent activity)_';
+
+            // Read current README
+            const fs = require('fs');
+            const readme = fs.readFileSync('README.md', 'utf8');
+
+            const startMarker = '<!--START_SECTION:activity-->';
+            const endMarker = '<!--END_SECTION:activity-->';
+
+            const startIdx = readme.indexOf(startMarker);
+            const endIdx = readme.indexOf(endMarker);
+
+            if (startIdx === -1 || endIdx === -1) {
+              core.setFailed('Could not find activity markers in README.md');
+              return;
+            }
+
+            const newReadme =
+              readme.slice(0, startIdx + startMarker.length) +
+              '\n' + content + '\n' +
+              readme.slice(endIdx);
+
+            fs.writeFileSync('README.md', newReadme);
+            core.notice('README.md updated with recent activity');
+
+      - name: Commit changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "docs: update recent activity in README"
+            git push
+          else
+            echo "No changes to commit"
+          fi
