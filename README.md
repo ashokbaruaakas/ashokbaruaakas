@@ -19,19 +19,30 @@
 </p>
 
 ---
-
-<!-- Stats -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ashokbaruaakas&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"  height=195 />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokbaruaakas&theme=city_lights&hide_border=true&card_width=495&card_height=195" alt="GitHub Streak" height=195 />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokbaruaakas&layout=compact&theme=city_lights&hide_border=true&langs_count=8&card_width=495" alt="Top Languages" height=195 width=500 />
-  </a>
-</p>
+<!-- Stats Layout -->
+<table border="0" align="center" width="100%">
+  <!-- Row 1: Side-by-Side Cards (Equal Height) -->
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ashokbaruaakas&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400" height="195" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokbaruaakas&theme=city_lights&hide_border=true" alt="GitHub Streak" width="400" height="195" />
+      </a>
+    </td>
+  </tr>
+  <!-- Row 2: Top Languages (Spans Both Columns, Full Width) -->
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokbaruaakas&layout=compact&theme=city_lights&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" width="810" height="195" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 # Tech Stack
 
