@@ -25,10 +25,10 @@
   <!-- Row 1: Side-by-Side Cards -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=ashokbaruaakas&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="display: block; max-width: 100%; width: 380px; height: 195px;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ashokbaruaakas&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="display: block; max-width: 100%; width: 400px; height: 195px;" />
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokbaruaakas&theme=city_lights&hide_border=true" alt="GitHub Streak" style="display: block; max-width: 100%; width: 400px; height: 195px;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokbaruaakas&theme=city_lights&hide_border=true" alt="GitHub Streak" style="display: block; max-width: 100%; width: 420px; height: 195px;" />
     </a>
   </div>
 
