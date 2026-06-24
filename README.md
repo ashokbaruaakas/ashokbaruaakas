@@ -12,8 +12,6 @@
 
 ---
 
-## 💼 Currently
-
 <p align="center">
   🔭 Full-time: <b>Grow More Gaze</b> — SaaS platform · payments · payroll<br />
   🌱 Side work: Open-source @ <a href="https://github.com/softpulze"><b>softpulze</b></a> · HovyProject<br />
