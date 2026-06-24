@@ -36,7 +36,7 @@
   <!-- Row 2: Full Width Card -->
   <div style="display: flex; justify-content: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokbaruaakas&layout=compact&theme=city_lights&hide_border=true&langs_count=8" alt="Top Languages" width="810" height="195" style="display: block; max-width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokbaruaakas&layout=compact&theme=city_lights&hide_border=true&langs_count=8&card_width=810" alt="Top Languages" width="810" height="195" style="display: block; max-width: 100%;" />
     </a>
   </div>
 
