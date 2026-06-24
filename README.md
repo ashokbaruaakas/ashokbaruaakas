@@ -127,7 +127,6 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 # Recent Activity
 
 <!--START_SECTION:activity-->
-
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
