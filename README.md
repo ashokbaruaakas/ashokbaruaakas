@@ -20,19 +20,22 @@
 
 ---
 
-<!-- Stats Row -->
+<!-- Stats -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashokbaruaakas&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true&hide=issues&rank_icon=github&card_width=430" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ashokbaruaakas&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true&hide=issues&rank_icon=github&card_width=495" alt="GitHub Stats" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ashokbaruaakas&theme=city_lights&hide_border=true&card_width=430" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokbaruaakas&theme=city_lights&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokbaruaakas&layout=compact&theme=city_lights&hide_border=true&langs_count=8&card_width=445" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokbaruaakas&layout=compact&theme=city_lights&hide_border=true&langs_count=8&card_width=495" alt="Top Languages" />
   </a>
 </p>
 
