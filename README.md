@@ -26,10 +26,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ashokbaruaakas&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true&card_width=450" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokbaruaakas&theme=city_lights&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokbaruaakas&theme=city_lights&hide_border=true&card_width=450" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokbaruaakas&layout=compact&theme=city_lights&hide_border=true&langs_count=8&card_width=800" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokbaruaakas&layout=compact&theme=city_lights&hide_border=true&langs_count=8&card_width=900" alt="Top Languages" />
   </a>
 </p>
 
