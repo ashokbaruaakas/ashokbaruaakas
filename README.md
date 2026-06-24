@@ -24,9 +24,9 @@
 <div align="center" style="margin: 0; padding: 0;">
   
   <!-- Row 1: Side-by-Side Cards -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px; background: transparent;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=ashokbaruaakas&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400" height="195" style="display: block; max-width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ashokbaruaakas&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="380" height="195" style="display: block; max-width: 100%;" />
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokbaruaakas&theme=city_lights&hide_border=true" alt="GitHub Streak" width="400" height="195" style="display: block; max-width: 100%;" />
@@ -36,7 +36,7 @@
   <!-- Row 2: Full Width Card -->
   <div style="display: flex; justify-content: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokbaruaakas&layout=compact&theme=city_lights&hide_border=true&langs_count=8&card_width=810" alt="Top Languages" width="810" height="195" style="display: block; max-width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokbaruaakas&layout=compact&theme=city_lights&hide_border=true&langs_count=8&card_width=810" alt="Top Languages" width="790" height="195" style="display: block; max-width: 100%;" />
     </a>
   </div>
 
