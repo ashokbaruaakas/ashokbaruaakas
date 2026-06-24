@@ -19,6 +19,7 @@
 </p>
 
 ---
+
 <!-- Stats -->
 <div align="center" style="margin: 0; padding: 0;">
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
@@ -110,11 +111,13 @@
 # Featured Projects
 
 ### [clawkit](https://github.com/ashokbaruaakas/clawkit) 🐳
+
 OpenClaw wrapper image with Linuxbrew + dev tooling, published to GHCR via automated CI/CD.
 
 `Docker` `GitHub Actions` `CI/CD` `OpenClaw`
 
 ### [laravibe-vue](https://github.com/softpulze/laravibe-vue) ⚡
+
 Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, admin area. Published under @softpulze.
 
 `Laravel 13` `Vue 3` `Inertia.js` `TypeScript` `Tailwind`
@@ -124,6 +127,7 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 # Recent Activity
 
 <!--START_SECTION:activity-->
+
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
