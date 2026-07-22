@@ -108,15 +108,6 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 
 # Recent Activity
 
-<div align="left">
-  <a href="https://commit-history.com/ashokbaruaakas">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/ashokbaruaakas?theme=dark" />
-      <img alt="ashokbaruaakas's commit history" src="https://commit-history.com/embed/ashokbaruaakas" />
-    </picture>
-  </a>
-</div>
-
 <!--START_SECTION:activity-->
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
@@ -130,6 +121,15 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
 <!--END_SECTION:activity-->
 
+---
+<div align="center">
+  <a href="https://commit-history.com/ashokbaruaakas">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/ashokbaruaakas?theme=dark" />
+      <img alt="ashokbaruaakas's commit history" src="https://commit-history.com/embed/ashokbaruaakas" />
+    </picture>
+  </a>
+</div>
 ---
 
 <p align="center">
