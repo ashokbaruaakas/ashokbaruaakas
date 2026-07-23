@@ -109,16 +109,16 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 # Recent Activity
 
 <!--START_SECTION:activity-->
-- 🎉 Created branch `main` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
-- ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
-- ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
-- ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
-- ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/proton-pass-action](https://github.com/ashokbaruaakas/proton-pass-action)
-- ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- 🔀 merged PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- 🔀 Opened PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- 🎉 Created branch `fix/env-keys` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
+- 🔀 Opened PR [undefined](undefined) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- 🎉 Created branch `feature/enum-convention` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- ⚡ Pushed 0 commit to `main` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- 🚀 Released [v0.1.0](https://github.com/softpulze/laravibe-standards/releases/tag/v0.1.0) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- ⚡ Pushed 0 commit to `main` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- 🔀 merged PR [undefined](undefined) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- ⚡ Pushed 0 commit to `feature/dto-convention` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- ⚡ Pushed 0 commit to `feature/dto-convention` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- ⚡ Pushed 0 commit to `feature/dto-convention` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- 🔀 merged PR [undefined](undefined) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
 <!--END_SECTION:activity-->
 
 ---
