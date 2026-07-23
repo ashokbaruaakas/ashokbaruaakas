@@ -109,6 +109,7 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 # Recent Activity
 
 <!--START_SECTION:activity-->
+- 🎉 Created branch `main` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas](https://github.com/ashokbaruaakas/ashokbaruaakas)
@@ -118,7 +119,6 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 - 🔀 merged PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
 - 🔀 Opened PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
 - 🎉 Created branch `fix/env-keys` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- 🔀 merged PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
 <!--END_SECTION:activity-->
 
 ---
