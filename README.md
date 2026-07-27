@@ -109,16 +109,16 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 # Recent Activity
 
 <!--START_SECTION:activity-->
-- 🚀 Released [v0.3.0](https://github.com/softpulze/laravibe-standards/releases/tag/v0.3.0) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
-- 🔀 merged PR [undefined](undefined) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- 🚀 Released [v0.3.5](https://github.com/softpulze/laravibe-standards/releases/tag/v0.3.5) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
 - ⚡ Pushed 0 commit to `main` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
-- ⚡ Pushed 0 commit to `feature/resource-conventions` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- 🔀 merged PR [undefined](undefined) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- 🔀 labeled PR [undefined](undefined) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
 - 🔀 Opened PR [undefined](undefined) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
-- 🎉 Created branch `feature/resource-conventions` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
-- 🚀 Released [v0.2.0](https://github.com/softpulze/laravibe-standards/releases/tag/v0.2.0) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
-- ⚡ Pushed 0 commit to `main` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- 🎉 Created branch `docs/auto-changelog` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- 🚀 Released [v0.3.4](https://github.com/softpulze/laravibe-standards/releases/tag/v0.3.4) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
 - 🔀 merged PR [undefined](undefined) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
-- ⚡ Pushed 0 commit to `feature/enum-convention` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- ⚡ Pushed 0 commit to `main` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- 🔀 labeled PR [undefined](undefined) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
 <!--END_SECTION:activity-->
 
 ---
