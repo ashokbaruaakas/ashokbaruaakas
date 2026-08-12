@@ -109,16 +109,16 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 # Recent Activity
 
 <!--START_SECTION:activity-->
-- 🎉 Created branch `feat/website` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- ⚡ Pushed 0 commit to `feat/website` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- 🎉 Created branch `feat/website` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- 🔀 merged PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- 🎉 Created branch `dev` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- 🔀 Opened PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
-- 🚀 Released [v0.3.5](https://github.com/softpulze/laravibe-standards/releases/tag/v0.3.5) in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
-- ⚡ Pushed 0 commit to `main` in [softpulze/laravibe-standards](https://github.com/softpulze/laravibe-standards)
+- ⚡ Pushed 0 commit to `fix/deployment` in [ashokbaruaakas/ashokbaruaakasdotcom](https://github.com/ashokbaruaakas/ashokbaruaakasdotcom)
+- ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakasdotcom](https://github.com/ashokbaruaakas/ashokbaruaakasdotcom)
+- 🔀 merged PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakasdotcom](https://github.com/ashokbaruaakas/ashokbaruaakasdotcom)
+- 🔀 Opened PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakasdotcom](https://github.com/ashokbaruaakas/ashokbaruaakasdotcom)
+- 🎉 Created branch `fix/deployment` in [ashokbaruaakas/ashokbaruaakasdotcom](https://github.com/ashokbaruaakas/ashokbaruaakasdotcom)
+- 🔀 merged PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakasdotcom](https://github.com/ashokbaruaakas/ashokbaruaakasdotcom)
+- ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakasdotcom](https://github.com/ashokbaruaakas/ashokbaruaakasdotcom)
+- 🔀 Opened PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakasdotcom](https://github.com/ashokbaruaakas/ashokbaruaakasdotcom)
+- 🎉 Created branch `fix/deployment` in [ashokbaruaakas/ashokbaruaakasdotcom](https://github.com/ashokbaruaakas/ashokbaruaakasdotcom)
+- 🔀 merged PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakasdotcom](https://github.com/ashokbaruaakas/ashokbaruaakasdotcom)
 <!--END_SECTION:activity-->
 
 ---
