@@ -112,13 +112,13 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
 - 🔀 merged PR [undefined](undefined) in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
 - 🔀 Opened PR [undefined](undefined) in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
-- 🎉 Created branch `fix/gateway-mode-bind-config` in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
-- 🔀 merged PR [undefined](undefined) in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
-- 🔀 Opened PR [undefined](undefined) in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
-- 🎉 Created branch `feat/deploy-without-clone` in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
-- 🎉 Created branch `docs/upgrading-openclaw` in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
+- 🎉 Created branch `feat/default-working-dir-home-node` in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
+- 🎉 Created branch `docs/uninstall-cleanup` in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
 - ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
 - 🔀 merged PR [undefined](undefined) in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
+- ⚡ Pushed 0 commit to `feat/custom-naming` in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
+- 🔀 Opened PR [undefined](undefined) in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
+- 🎉 Created branch `feat/custom-naming` in [ashokbaruaakas/clawkit](https://github.com/ashokbaruaakas/clawkit)
 <!--END_SECTION:activity-->
 
 ---
