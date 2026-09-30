@@ -1,21 +1,37 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ashok%20Barua%20Akas&descAlign=55.5&descAlignY=52&desc=Full-Stack%20Engineer%20|%20Laravel%20·%20Vue%20·%20TypeScript&descSize=22&section=header&reversal=true&textBg=false&fontAlign=33&animation=fadeIn&fontAlignY=32&fontSize=55" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ashok%20Barua%20Akas&descAlign=55.5&descAlignY=52&desc=Full-Stack%20Engineer%20|%20Laravel%20·%20Vue%20·%20TypeScript&descSize=22&section=header&reversal=true&textBg=false&fontAlign=33&animation=fadeIn&fontAlignY=32&fontSize=55" />
-  <img alt="Ashok Barua Akas — Full-Stack Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ashok%20Barua%20Akas&descAlign=55.5&descAlignY=52&desc=Full-Stack%20Engineer%20|%20Laravel%20·%20Vue%20·%20TypeScript&descSize=22&section=header&reversal=true&textBg=false&fontAlign=33&animation=fadeIn&fontAlignY=32&fontSize=55" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=true&text=Ashok+Barua+Akas&textBg=false&fontSize=55&fontAlign=32&fontAlignY=33&rotate=0&strokeWidth=0&desc=Senior+Full-Stack+Engineer+%7C+Fintech%2C+Multi-Tenant+SaaS&descSize=22&descAlign=55&descAlignY=52" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=true&text=Ashok+Barua+Akas&textBg=false&fontSize=55&fontAlign=32&fontAlignY=33&rotate=0&strokeWidth=0&desc=Senior+Full-Stack+Engineer+%7C+Fintech%2C+Multi-Tenant+SaaS&descSize=22&descAlign=55&descAlignY=52" />
+  <img alt="Ashok Barua Akas — Senior Full-Stack Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=true&text=Ashok+Barua+Akas&textBg=false&fontSize=55&fontAlign=32&fontAlignY=33&rotate=0&strokeWidth=0&desc=Senior+Full-Stack+Engineer+%7C+Fintech%2C+Multi-Tenant+SaaS&descSize=22&descAlign=55&descAlignY=52" />
 </picture>
 
 <p align="center">
   <em>
-    Full-stack engineer · Laravel · Vue · TypeScript · Go · Builder at <a href="https://github.com/softpulze"><strong>@softpulze</strong></a> · AI-augmented by <a href="https://github.com/ashokathebot"><strong>@ashokathebot</strong></a> 🧙
+    Senior full-stack engineer · Laravel · PHP · TypeScript · Vue · Fintech payments &amp; multi-tenant SaaS · Builder at <a href="https://github.com/softpulze"><strong>@softpulze</strong></a> · AI-augmented by <a href="https://github.com/ashokathebot"><strong>@ashokathebot</strong></a> 🧙
   </em>
+</p>
+
+<p align="center">
+  <a href="https://ashokbaruaakas.com"><img src="https://img.shields.io/badge/Portfolio-ashokbaruaakas.com-10b981?style=flat-square" alt="Portfolio" /></a>&nbsp;
+  <a href="https://ashokbaruaakas.com/resume"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-view-2563eb?style=flat-square" alt="Résumé" /></a>&nbsp;
+  <a href="mailto:ashokbaruaakas@gmail.com"><img src="https://img.shields.io/badge/Email-contact-dc2626?style=flat-square" alt="Email" /></a>
 </p>
 
 ---
 
+## What I do
+
+I build and run production systems end to end — architecture, implementation, database design, servers, CI/CD, monitoring, and production support.
+
+- **Fintech & payments** — Led development of **SiPay**, a banking payment platform for Turkish financial institutions: merchant and mobile banking, link / P2P / B2B / QR / bill-pay / POS flows, **HSM-backed cryptographic operations**, and a card-saving system with secure key management.
+- **Multi-tenant SaaS** — Built the **Grow More Gaze** core platform from scratch, serving **40,000+ customers** with isolated tenant data across HRM, payroll, invoicing, and payments — plus multi-gateway collection (Stripe, PayPal, Paddle, crypto, bKash, Nagad).
+- **Scale & observability** — Microservices architecture with **Elasticsearch + Graylog** for centralized logging and monitoring.
+- **Beyond the web** — HRM/payroll systems wired to IoT hardware (fingerprint scanners, smart locks, notice boards) over **MQTT**.
+- **AI-augmented** — I run agent workflows (OpenClaw, MCP, LLM APIs) inside my daily development and operations work.
+
 <p align="center">
-  🔭 Full-time: <b>Grow More Gaze</b> — SaaS platform · payments · payroll<br />
-  🌱 Side work: Open-source @ <a href="https://github.com/softpulze"><b>softpulze</b></a> · HovyProject<br />
-  <em>→ Full story at ashokbaruaakas.com (coming soon)</em>
+  🔭 Full-time: <b>Grow More Gaze</b> — multi-tenant SaaS · payments · payroll · HRM<br />
+  🌱 Open source: <a href="https://github.com/softpulze"><b>@softpulze</b></a> · <a href="https://github.com/ashokbaruaakas/clawkit"><b>clawkit</b></a><br />
+  🔗 Full story: <a href="https://ashokbaruaakas.com"><b>ashokbaruaakas.com</b></a>
 </p>
 
 ---
@@ -28,13 +44,13 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
+
+<sub>Also familiar with: Go, Rust</sub>
 
 ### ⚙️ Frameworks & Libraries
 
@@ -92,6 +108,30 @@
 
 # Featured Projects
 
+### [ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com) 🌐
+
+My portfolio and résumé — Laravel + Vue 3 + Inertia.js, with an ATS-friendly résumé export, structured data, and a WCAG 2.1 AA accessibility pass.
+
+`Laravel` `Vue 3` `Inertia.js` `TypeScript` `Tailwind`
+
+### [proton-pass-action](https://github.com/ashokbaruaakas/proton-pass-action) 🔒
+
+GitHub Composite Action that installs the Proton Pass CLI and injects multiple secrets into `GITHUB_ENV` in a single step. Pure-Bash engine.
+
+`GitHub Actions` `Bash` `CI/CD` `Secrets`
+
+### [laravel-authorize-attribute](https://github.com/ashokbaruaakas/laravel-authorize-attribute) 🛡️
+
+A Laravel package for authorizing controller methods using PHP 8 attributes — `#[Authorize(Model::class)]` instead of boilerplate.
+
+`Laravel` `PHP 8` `Attributes` `Authorization` `Packagist`
+
+### [kord-cli](https://github.com/ashokbaruaakas/kord-cli) 🔗
+
+Go CLI that ties Git workflows, task management (Notion), and LLM-powered automation together — branch creation, commit messages, PRs, releases.
+
+`Go` `CLI` `Git` `Notion` `LLM`
+
 ### [clawkit](https://github.com/ashokbaruaakas/clawkit) 🐳
 
 OpenClaw wrapper image with Linuxbrew + dev tooling, published to GHCR via automated CI/CD.
@@ -122,6 +162,7 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 <!--END_SECTION:activity-->
 
 ---
+
 <div align="center">
   <a href="https://commit-history.com/ashokbaruaakas">
     <picture>
@@ -130,15 +171,12 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
     </picture>
   </a>
 </div>
+
 ---
 
 <p align="center">
-  <a href="https://wa.me/+8801829853914" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>&nbsp;&nbsp;
-  <a href="https://t.me/ashokbaruaakas" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/ashokbaruaakas" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/611991650868133894" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashokbaruaakas.ashokbaruaakas&left_color=2d3748&right_color=10b981&left_text=Visitors" alt="Visitor Counter" />
+  <a href="https://ashokbaruaakas.com" target="_blank"><img src="https://img.shields.io/badge/Website-ashokbaruaakas.com-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>&nbsp;&nbsp;
+  <a href="mailto:ashokbaruaakas@gmail.com"><img src="https://img.shields.io/badge/Email-ashokbaruaakas@gmail.com-dc2626?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/ashokbaruaakas" target="_blank"><img src="https://img.shields.io/badge/GitHub-ashokbaruaakas-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://t.me/ashokbaruaakas" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
