@@ -120,12 +120,6 @@ GitHub Composite Action that installs the Proton Pass CLI and injects multiple s
 
 `GitHub Actions` `Bash` `CI/CD` `Secrets`
 
-### [laravel-authorize-attribute](https://github.com/ashokbaruaakas/laravel-authorize-attribute) 🛡️
-
-A Laravel package for authorizing controller methods using PHP 8 attributes — `#[Authorize(Model::class)]` instead of boilerplate.
-
-`Laravel` `PHP 8` `Attributes` `Authorization` `Packagist`
-
 ### [kord-cli](https://github.com/ashokbaruaakas/kord-cli) 🔗
 
 Go CLI that ties Git workflows, task management (Notion), and LLM-powered automation together — branch creation, commit messages, PRs, releases.
