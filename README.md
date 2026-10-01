@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=true&text=Ashok+Barua&textBg=false&fontSize=55&fontAlign=32&fontAlignY=33&rotate=0&strokeWidth=0&desc=Senior+Full-Stack+Engineer+%7C+Fintech%2C+Multi-Tenant+SaaS&descSize=22&descAlign=55&descAlignY=52" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=true&text=Ashok+Barua&textBg=false&fontSize=55&fontAlign=32&fontAlignY=33&rotate=0&strokeWidth=0&desc=Senior+Full-Stack+Engineer+%7C+Fintech%2C+Multi-Tenant+SaaS&descSize=22&descAlign=55&descAlignY=52" />
-  <img alt="Ashok Barua Akas — Senior Full-Stack Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=true&text=Ashok+Barua&textBg=false&fontSize=55&fontAlign=32&fontAlignY=33&rotate=0&strokeWidth=0&desc=Senior+Full-Stack+Engineer+%7C+Fintech%2C+Multi-Tenant+SaaS&descSize=22&descAlign=55&descAlignY=52" />
+  <img alt="Ashok Barua — Senior Full-Stack Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=true&text=Ashok+Barua&textBg=false&fontSize=55&fontAlign=32&fontAlignY=33&rotate=0&strokeWidth=0&desc=Senior+Full-Stack+Engineer+%7C+Fintech%2C+Multi-Tenant+SaaS&descSize=22&descAlign=55&descAlignY=52" />
 </picture>
 
 <p align="center">
