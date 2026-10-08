@@ -143,6 +143,8 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 # Recent Activity
 
 <!--START_SECTION:activity-->
+- 🎉 Created branch `chore/phpstan-memory-limit` in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
+- ⚡ Pushed 0 commit to `main` in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
 - ⚡ Pushed 0 commit to `main` in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
 - 🔀 merged PR [undefined](undefined) in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
 - 🔀 Opened PR [undefined](undefined) in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
@@ -151,8 +153,6 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 - 🔀 labeled PR [undefined](undefined) in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
 - 🔀 merged PR [undefined](undefined) in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
 - 🔀 labeled PR [undefined](undefined) in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
-- 🔀 Opened PR [undefined](undefined) in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
-- 🔀 merged PR [undefined](undefined) in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
 <!--END_SECTION:activity-->
 
 ---
