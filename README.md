@@ -143,6 +143,7 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 # Recent Activity
 
 <!--START_SECTION:activity-->
+- ⚡ Pushed 0 commit to `main` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
 - 🎉 Created branch `refactor/rename-to-thesoftpulze` in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
 - ⚡ Pushed 0 commit to `main` in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
 - 🎉 Created branch `docs/upgrading-from-softpulze` in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
@@ -152,7 +153,6 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 - 🔀 merged PR [undefined](undefined) in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
 - 🔀 Opened PR [undefined](undefined) in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
 - 🔀 labeled PR [undefined](undefined) in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
-- 🚀 Released [v0.4.0](https://github.com/thesoftpulze/laravibe-standards/releases/tag/v0.4.0) in [thesoftpulze/laravibe-standards](https://github.com/thesoftpulze/laravibe-standards)
 <!--END_SECTION:activity-->
 
 ---
