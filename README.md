@@ -152,7 +152,7 @@ Open-source Laravel 13 starter kit with Vue 3 + Inertia.js v3 — auth, SSR, adm
 - ⚡ Pushed 0 commit to `feat/portfolio-case-studies` in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
 - 🔀 merged PR [undefined](undefined) in [ashokbaruaakas/ashokbaruaakas.com](https://github.com/ashokbaruaakas/ashokbaruaakas.com)
 - 🎉 Created branch `feat/collapse-reply-threads` in [ashokbaruaakas/dev-null.sh](https://github.com/ashokbaruaakas/dev-null.sh)
-- 🔀 Opened PR [undefined](undefined) in [nunomaduro/dev-null.sh](https://github.com/nunomaduro/dev-null.sh)
+- 🔀 Opened PR [undefined](undefined) in [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh)
 <!--END_SECTION:activity-->
 
 ---
