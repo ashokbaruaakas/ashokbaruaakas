@@ -26,7 +26,7 @@
 - **Payments at a licensed e-money institution.** Core payments engineer on [SiPay](https://sipay.com.tr/en/) (Türkiye): merchant and mobile banking, link / P2P / B2B / QR / bill-pay / POS flows, and HSM-backed saved cards. Upgraded the platform from PHP 7.4 to 8.2, built observability on Elasticsearch and Graylog, and was promoted to team lead for a team of six.
 - **A whole business on one platform, as the sole engineer.** At [Grow More Gaze](https://growmoregaze.com) I designed and run the operations platform for an international agency: ordering, invoicing, HRM, payroll, email campaigns, and **seven payment gateways** with idempotent webhook handling. I also own the infrastructure and CI/CD.
 - **Software that talks to hardware.** HRM and payroll for a multi-site workforce at Stellar BD, with fingerprint attendance devices synced in real time over MQTT.
-- **Open source.** Merged contribution to [inertia-laravel](https://github.com/inertiajs/inertia-laravel); maintainer of [LaraVibe-Vue](https://github.com/thesoftpulze/laravibe-vue) and [clawkit](https://github.com/ashokbaruaakas/clawkit) (500+ GHCR pulls).
+- **Open source.** I build open-source Laravel tooling under [**@thesoftpulze**](https://github.com/thesoftpulze). Merged contribution to [inertia-laravel](https://github.com/inertiajs/inertia-laravel); maintainer of [LaraVibe-Vue](https://github.com/thesoftpulze/laravibe-vue) and [clawkit](https://github.com/ashokbaruaakas/clawkit) (500+ GHCR pulls).
 
 ## Featured projects
 
